@@ -11,7 +11,7 @@ var whatsapp_links = "https://api.whatsapp.com/send?phone=5547997420271&text=Ol%
 var privacy_policy_link = "https://www.oralsin.com.br/politica_de_privacidade"
 
 // Subject and Recepients
-var subject =  "Oral Sin Creative"
+var subject =  "Oral Sin Creative - Indaial"
 var receivers = "leadnbids@gmail.com, analytics@infuseads.com"
 
 
